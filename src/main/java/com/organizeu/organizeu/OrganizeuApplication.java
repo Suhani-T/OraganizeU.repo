@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OrganizeuApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(OrganizeuApplication.class, args);
 	}
 
